@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SimpleFun.aternos.me",
+    "ip": "Simplefun.aternos.me",
     "port":  41636,
     "version": "",
     "try-creative": false
